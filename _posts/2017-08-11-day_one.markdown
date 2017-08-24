@@ -1,17 +1,9 @@
 ---
 layout: post
-title:  "  day  one "
-date:   2017-08-11 15:16:30 +0000
+title:  "  the ternary operator "
+date:   2017-08-11 11:16:31 -0400
 ---
 
 
 
-Set up my playlist of          songs.       
-
-Getting a monitor but need to get the right           cable.          
-
-start to learn to code!         
-
-Just need a comfy             chair.           
-
-And a                        positive outlook.                                   
+I found it really refreshing to see that Ruby has a different way to write a basic conditional expression.  I see it as a way for a secretary to write in shorthand.  As I learn Ruby and view it as a programming language that can be eloquent and not only functional, I look forward to seeing more of these abbreviated ways to write code.
